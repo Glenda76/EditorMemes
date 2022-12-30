@@ -1,0 +1,22 @@
+.container{
+    margin-top: 60px;
+}
+
+.skip{
+    background-color: green;
+}
+
+.generate{
+    background-color: orange;
+}
+
+.link-meme{
+    margin: 50px 0 30px 0 ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
