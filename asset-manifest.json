@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EditorMemes/static/css/main.c92bea4e.css",
+    "main.js": "/EditorMemes/static/js/main.12f087af.js",
+    "index.html": "/EditorMemes/index.html",
+    "main.c92bea4e.css.map": "/EditorMemes/static/css/main.c92bea4e.css.map",
+    "main.12f087af.js.map": "/EditorMemes/static/js/main.12f087af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c92bea4e.css",
+    "static/js/main.12f087af.js"
+  ]
+}
